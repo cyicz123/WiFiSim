@@ -1,0 +1,151 @@
++++++++++++ Simulation start +++++++++++
+Initial time (real and simulated): 2025-09-15 19:14:16.291832
+Device 0 (Lenovo thinkpadt14sgen1) created at 2025-09-15 19:14:16.298333
+Device 1 (honor honor98) created at 2025-09-15 19:14:16.298596
+Device 2 (honor honor90) created at 2025-09-15 19:14:16.298934
+Device 3 (OPPO oppoa93) created at 2025-09-15 19:14:16.299020
+Device 4 (vivo x60pro+) created at 2025-09-15 19:14:16.299440
+Device 5 (iQOO iqoo10) created at 2025-09-15 19:14:16.301232
+Device 6 (Samsung galaxys20fe) created at 2025-09-15 19:14:16.302193
+Device 7 (Lenovo thinkpadt14sgen1) created at 2025-09-15 19:14:16.303004
+Device 8 (MeiZu 18lite) created at 2025-09-15 19:14:16.303217
+Device 9 (Samsung galaxys10) created at 2025-09-15 19:14:16.304207
+Device 10 (honor honor93) created at 2025-09-15 19:14:16.306086
+Device 11 (Huawei mate30pro) created at 2025-09-15 19:14:16.306170
+Device 12 (Xiaomi mi9lite) created at 2025-09-15 19:14:16.306179
+Device 13 (MeiZu 18plus) created at 2025-09-15 19:14:16.306234
+Device 14 (Realme gtneo3) created at 2025-09-15 19:14:16.307141
+Device 15 (iQOO iqoo7) created at 2025-09-15 19:14:16.307436
+Device 16 (Xiaomi mi8lite) created at 2025-09-15 19:14:16.307683
+Device 17 (Xiaomi mi9lite) created at 2025-09-15 19:14:16.307987
+Device 18 (honor honor90) created at 2025-09-15 19:14:16.308098
+Device 19 (OnePlus oneplus9rt) created at 2025-09-15 19:14:16.308999
+Device 20 (Xiaomi redminote9pro) created at 2025-09-15 19:14:16.309751
+Device 21 (Realme realmeq3i) created at 2025-09-15 19:14:16.310087
+Device 22 (Xiaomi mi9lite) created at 2025-09-15 19:14:16.310607
+Device 23 (Samsung galaxys10) created at 2025-09-15 19:14:16.311160
+Device 24 (iQOO iqoo10pro) created at 2025-09-15 19:14:16.311749
+Device 3 (OPPO oppoa93) changed phase to 1 at 2025-09-15 19:14:20.307973
+Device 6 (Samsung galaxys20fe) changed phase to 0 at 2025-09-15 19:14:20.312816
+Device 18 (honor honor90) changed phase to 0 at 2025-09-15 19:14:20.314505
+Device 19 (OnePlus oneplus9rt) changed phase to 0 at 2025-09-15 19:14:20.317334
+Device 10 (honor honor93) changed phase to 0 at 2025-09-15 19:14:20.317567
+Device 21 (Realme realmeq3i) changed phase to 0 at 2025-09-15 19:14:20.318662
+Device 23 (Samsung galaxys10) changed phase to 0 at 2025-09-15 19:14:20.325830
+Device 22 (Xiaomi mi9lite) changed phase to 2 at 2025-09-15 19:14:20.327176
+Device 4 (vivo x60pro+) changed phase to 0 at 2025-09-15 19:14:24.306678
+Device 2 (honor honor90) changed phase to 2 at 2025-09-15 19:14:24.312908
+Device 17 (Xiaomi mi9lite) changed phase to 2 at 2025-09-15 19:14:24.313072
+Device 3 (OPPO oppoa93) changed phase to 0 at 2025-09-15 19:14:24.313325
+Device 9 (Samsung galaxys10) changed phase to 2 at 2025-09-15 19:14:24.317181
+Device 5 (iQOO iqoo10) changed phase to 0 at 2025-09-15 19:14:24.319291
+Device 16 (Xiaomi mi8lite) changed phase to 2 at 2025-09-15 19:14:24.319294
+Device 18 (honor honor90) changed phase to 2 at 2025-09-15 19:14:24.326999
+Device 4 (vivo x60pro+) changed phase to 2 at 2025-09-15 19:14:28.316313
+Device 2 (honor honor90) changed phase to 0 at 2025-09-15 19:14:28.321541
+Device 19 (OnePlus oneplus9rt) changed phase to 1 at 2025-09-15 19:14:28.324682
+Device 17 (Xiaomi mi9lite) changed phase to 0 at 2025-09-15 19:14:28.324739
+Device 1 (honor honor98) changed phase to 0 at 2025-09-15 19:14:32.309349
+Device 14 (Realme gtneo3) changed phase to 0 at 2025-09-15 19:14:32.318595
+Device 8 (MeiZu 18lite) changed phase to 0 at 2025-09-15 19:14:32.322299
+Device 24 (iQOO iqoo10pro) changed phase to 0 at 2025-09-15 19:14:32.323000
+Device 11 (Huawei mate30pro) changed phase to 0 at 2025-09-15 19:14:32.325183
+Device 20 (Xiaomi redminote9pro) changed phase to 1 at 2025-09-15 19:14:32.325998
+Device 19 (OnePlus oneplus9rt) changed phase to 0 at 2025-09-15 19:14:32.332897
+Device 9 (Samsung galaxys10) changed phase to 0 at 2025-09-15 19:14:32.334578
+Device 6 (Samsung galaxys20fe) changed phase to 2 at 2025-09-15 19:14:36.327456
+Device 17 (Xiaomi mi9lite) changed phase to 2 at 2025-09-15 19:14:36.335026
+Device 24 (iQOO iqoo10pro) changed phase to 2 at 2025-09-15 19:14:36.335518
+Device 11 (Huawei mate30pro) changed phase to 2 at 2025-09-15 19:14:36.338016
+Device 15 (iQOO iqoo7) changed phase to 0 at 2025-09-15 19:14:40.319912
+Device 8 (MeiZu 18lite) changed phase to 2 at 2025-09-15 19:14:40.328010
+Device 20 (Xiaomi redminote9pro) changed phase to 0 at 2025-09-15 19:14:40.336108
+Device 21 (Realme realmeq3i) changed phase to 2 at 2025-09-15 19:14:44.328710
+Device 14 (Realme gtneo3) changed phase to 2 at 2025-09-15 19:14:48.327523
+Device 15 (iQOO iqoo7) changed phase to 2 at 2025-09-15 19:14:48.334078
+Device 16 (Xiaomi mi8lite) changed phase to 0 at 2025-09-15 19:14:48.337379
+Device 18 (honor honor90) changed phase to 0 at 2025-09-15 19:14:48.340822
+Device 9 (Samsung galaxys10) changed phase to 2 at 2025-09-15 19:14:48.354260
+Device 12 (Xiaomi mi9lite) changed phase to 0 at 2025-09-15 19:14:52.316957
+Device 7 (Lenovo thinkpadt14sgen1) changed phase to 0 at 2025-09-15 19:14:52.319273
+Device 2 (honor honor90) changed phase to 2 at 2025-09-15 19:14:52.330214
+Device 23 (Samsung galaxys10) changed phase to 2 at 2025-09-15 19:14:56.339533
+Device 19 (OnePlus oneplus9rt) changed phase to 2 at 2025-09-15 19:14:56.342045
+Device 16 (Xiaomi mi8lite) changed phase to 2 at 2025-09-15 19:14:56.352164
+Device 5 (iQOO iqoo10) changed phase to 2 at 2025-09-15 19:15:00.328983
+Device 3 (OPPO oppoa93) changed phase to 2 at 2025-09-15 19:15:00.332429
+Device 0 (Lenovo thinkpadt14sgen1) changed phase to 2 at 2025-09-15 19:15:04.305801
+Device 13 (MeiZu 18plus) changed phase to 0 at 2025-09-15 19:15:04.319627
+Device 23 (Samsung galaxys10) changed phase to 0 at 2025-09-15 19:15:04.350817
+Device 1 (honor honor98) changed phase to 2 at 2025-09-15 19:15:08.316494
+Device 10 (honor honor93) changed phase to 2 at 2025-09-15 19:15:08.335028
+Device 5 (iQOO iqoo10) changed phase to 0 at 2025-09-15 19:15:08.337759
+Device 22 (Xiaomi mi9lite) changed phase to 0 at 2025-09-15 19:15:08.342234
+Device 21 (Realme realmeq3i) changed phase to 0 at 2025-09-15 19:15:08.347818
+Device 17 (Xiaomi mi9lite) changed phase to 0 at 2025-09-15 19:15:12.343071
+Device 18 (honor honor90) changed phase to 1 at 2025-09-15 19:15:12.352137
+Device 19 (OnePlus oneplus9rt) changed phase to 0 at 2025-09-15 19:15:12.361643
+Device 16 (Xiaomi mi8lite) changed phase to 0 at 2025-09-15 19:15:12.369425
+Device 4 (vivo x60pro+) changed phase to 0 at 2025-09-15 19:15:16.326611
+Device 12 (Xiaomi mi9lite) changed phase to 2 at 2025-09-15 19:15:16.332475
+Device 5 (iQOO iqoo10) changed phase to 1 at 2025-09-15 19:15:16.347930
+Device 0 (Lenovo thinkpadt14sgen1) changed phase to 0 at 2025-09-15 19:15:20.321635
+Device 13 (MeiZu 18plus) changed phase to 2 at 2025-09-15 19:15:20.327829
+Device 16 (Xiaomi mi8lite) changed phase to 2 at 2025-09-15 19:15:20.386493
+Device 6 (Samsung galaxys20fe) changed phase to 0 at 2025-09-15 19:15:24.335299
+Device 15 (iQOO iqoo7) changed phase to 0 at 2025-09-15 19:15:24.342063
+Device 11 (Huawei mate30pro) changed phase to 0 at 2025-09-15 19:15:24.343263
+Device 3 (OPPO oppoa93) changed phase to 0 at 2025-09-15 19:15:24.350139
+Device 24 (iQOO iqoo10pro) changed phase to 0 at 2025-09-15 19:15:24.355050
+Device 21 (Realme realmeq3i) changed phase to 2 at 2025-09-15 19:15:24.359073
+Device 9 (Samsung galaxys10) changed phase to 0 at 2025-09-15 19:15:24.367367
+Device 8 (MeiZu 18lite) changed phase to 0 at 2025-09-15 19:15:28.334616
+Device 13 (MeiZu 18plus) changed phase to 0 at 2025-09-15 19:15:28.338353
+Device 20 (Xiaomi redminote9pro) changed phase to 2 at 2025-09-15 19:15:28.347018
+Device 3 (OPPO oppoa93) changed phase to 2 at 2025-09-15 19:15:28.360321
+Device 23 (Samsung galaxys10) changed phase to 2 at 2025-09-15 19:15:28.364486
+Device 24 (iQOO iqoo10pro) changed phase to 2 at 2025-09-15 19:15:28.369614
+Device 9 (Samsung galaxys10) changed phase to 2 at 2025-09-15 19:15:28.372420
+Device 16 (Xiaomi mi8lite) changed phase to 0 at 2025-09-15 19:15:28.393430
+Device 1 (honor honor98) changed phase to 0 at 2025-09-15 19:15:32.334667
+Device 4 (vivo x60pro+) changed phase to 1 at 2025-09-15 19:15:32.336371
+Device 22 (Xiaomi mi9lite) changed phase to 2 at 2025-09-15 19:15:32.359896
+Device 0 (Lenovo thinkpadt14sgen1) changed phase to 2 at 2025-09-15 19:15:36.335893
+Device 14 (Realme gtneo3) changed phase to 0 at 2025-09-15 19:15:36.340281
+Device 18 (honor honor90) changed phase to 0 at 2025-09-15 19:15:36.362246
+Device 19 (OnePlus oneplus9rt) changed phase to 2 at 2025-09-15 19:15:36.374925
+Device 3 (OPPO oppoa93) changed phase to 0 at 2025-09-15 19:15:36.378166
+Device 16 (Xiaomi mi8lite) changed phase to 2 at 2025-09-15 19:15:36.400652
+Device 7 (Lenovo thinkpadt14sgen1) changed phase to 2 at 2025-09-15 19:15:40.328762
+Device 2 (honor honor90) changed phase to 0 at 2025-09-15 19:15:40.335558
+Device 15 (iQOO iqoo7) changed phase to 2 at 2025-09-15 19:15:40.348212
+Device 7 (Lenovo thinkpadt14sgen1) changed phase to 0 at 2025-09-15 19:15:44.341668
+Device 10 (honor honor93) changed phase to 0 at 2025-09-15 19:15:44.343076
+Device 4 (vivo x60pro+) changed phase to 0 at 2025-09-15 19:15:48.342929
+Device 17 (Xiaomi mi9lite) changed phase to 2 at 2025-09-15 19:15:48.353848
+Device 7 (Lenovo thinkpadt14sgen1) changed phase to 2 at 2025-09-15 19:15:48.355823
+Device 11 (Huawei mate30pro) changed phase to 2 at 2025-09-15 19:15:48.362829
+Device 12 (Xiaomi mi9lite) changed phase to 0 at 2025-09-15 19:15:52.338248
+Device 13 (MeiZu 18plus) changed phase to 2 at 2025-09-15 19:15:52.343698
+Device 14 (Realme gtneo3) changed phase to 2 at 2025-09-15 19:15:52.350877
+Device 4 (vivo x60pro+) changed phase to 2 at 2025-09-15 19:15:52.354217
+Device 0 (Lenovo thinkpadt14sgen1) changed phase to 0 at 2025-09-15 19:15:52.354261
+Device 9 (Samsung galaxys10) changed phase to 0 at 2025-09-15 19:15:52.377740
+Device 24 (iQOO iqoo10pro) changed phase to 0 at 2025-09-15 19:15:52.386420
+Device 16 (Xiaomi mi8lite) changed phase to 0 at 2025-09-15 19:15:52.416457
+Device 1 (honor honor98) changed phase to 2 at 2025-09-15 19:15:56.344840
+Device 2 (honor honor90) changed phase to 2 at 2025-09-15 19:15:56.354293
+Device 4 (vivo x60pro+) changed phase to 0 at 2025-09-15 19:16:00.360747
+Device 2 (honor honor90) changed phase to 0 at 2025-09-15 19:16:00.371258
+Device 19 (OnePlus oneplus9rt) changed phase to 0 at 2025-09-15 19:16:00.392705
+Device 24 (iQOO iqoo10pro) changed phase to 2 at 2025-09-15 19:16:00.405672
+Device 16 (Xiaomi mi8lite) changed phase to 2 at 2025-09-15 19:16:00.435311
+Device 5 (iQOO iqoo10) changed phase to 0 at 2025-09-15 19:16:04.355941
+Device 1 (honor honor98) changed phase to 0 at 2025-09-15 19:16:04.358200
+Device 11 (Huawei mate30pro) changed phase to 0 at 2025-09-15 19:16:04.372870
+Device 23 (Samsung galaxys10) changed phase to 0 at 2025-09-15 19:16:04.373081
+Device 10 (honor honor93) changed phase to 2 at 2025-09-15 19:16:08.350432
+Device 14 (Realme gtneo3) changed phase to 0 at 2025-09-15 19:16:08.367662
+Device 4 (vivo x60pro+) changed phase to 2 at 2025-09-15 19:16:08.380526
+Device 2 (honor honor90) changed phase to 2 at 2025-09-15 19:16:08.382150
+Device 9 (Samsung galaxys10) changed phase to 2 at 2025-09-15 19:16:08.388640
